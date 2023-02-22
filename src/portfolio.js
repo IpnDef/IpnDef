@@ -168,21 +168,27 @@ const workExperiences = {
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "Des 2021 - Sep 2022",
       desc: "PT. Andiarta Muzizat (Ninja Xpress) adalah perusahaan jasa pengiriman kurir ekspres berbasis teknologi yang menyediakan layanan pengiriman di Asia Tenggara yang pertama kali diluncurkan pada tahun 2014.",
-      descBullets: [
+      descBullets: [ 
+        "Menyiapkan pengiriman dan penyimpanan barang",
         "‍Bertanggung jawab atas bongkar muat barang",
         "Menandatangani surat penerimaan barang",
         "Melakukan pengecekan barang di gudang",
-        "Menyiapkan pengiriman dan penyimpanan barang",
         "Membuat laporan secara berkala",
         "Berkoordinasi dengan Divisi lain atau Klien"
       ]
     },
     {
-      role: "Warehouse Helper (PKL)",
+      role: "Warehouse Helper (Magang)",
       company: "PT.Pujisei Metal Indonesia",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "Feb 2018 – Mei 2018",
-      desc: "Praktik Kerja Lapangan atau PKL merupakan salah satu bentuk penyelenggaraan pendidikan dan pelatihan kejuruan. Kegiatan PKL juga banyak diikuti oleh mahasiswa dengan cara bekerja secara langsung di tengah lingkungan kerja dalam pelayanan masyarakat."
+      desc: "Fujisei Metal Indonesia PT berlokasi Bekasi, Indonesia. Perusahaan ini berkecimpung dalam aktivitas bisnis Kimia, Produk Plastik.",
+      descBullets: [
+        "Mendata tugas yang dilakukan setiap hari",
+        "‍Ditugaskan membantu proses muat barang",
+        "Mengikuti arahan dari senior ",
+        "Membersihkan area sekitar"
+      ]
     }
   ]
 };
@@ -198,8 +204,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "SOME OF THE PROJECTS THAT I FOLLOW",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
@@ -298,13 +304,13 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      url: "#",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "#",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
@@ -349,8 +355,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+62 838-6754-1531",
+  email_address: "ipndef@gmail.com"
 };
 
 // Twitter Section
