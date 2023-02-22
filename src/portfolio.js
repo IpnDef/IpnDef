@@ -36,10 +36,8 @@ const socialMediaLinks = {
   github: "https://github.com/ipndef",
   linkedin: "https://www.linkedin.com/in/ipnu/",
   gmail: "ipndef@gmail.com",
-  gitlab: "https://gitlab.com/ipndef",
   facebook: "https://www.facebook.com/ipndef",
   medium: "https://medium.com/@ipndef",
-  stackoverflow: "#",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -358,7 +356,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "SotoMie___", //Replace "twitter" with your twitter username without @
+  userName: "elonmusk", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
