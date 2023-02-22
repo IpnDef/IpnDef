@@ -178,18 +178,11 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "Warehouse Helper (PKL)",
+      company: "PT.Pujisei Metal Indonesia",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Feb 2018 – Mei 2018",
+      desc: "Praktik Kerja Lapangan atau PKL merupakan salah satu bentuk penyelenggaraan pendidikan dan pelatihan kejuruan. Kegiatan PKL juga banyak diikuti oleh mahasiswa dengan cara bekerja secara langsung di tengah lingkungan kerja dalam pelayanan masyarakat."
     }
   ]
 };
