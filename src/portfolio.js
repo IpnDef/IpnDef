@@ -23,7 +23,7 @@ const greeting = {
   username: "Ipnu Def",
   title: "Hi all, I'm Ipnu",
   subTitle: emoji(
-    "My name is Ipnu Alpri Yansyah. I am 21 years old. I am also a fast learner, adaptable and confident."
+    "I am 21 years old. I am also a fast learner, adaptable and confident."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1qPqLtwVcX-eUUpQS2MZBYkEw8Cbb1Xlk/view?usp=sharing", // Set to empty to hide the button
@@ -33,13 +33,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/ipndef",
+  linkedin: "https://www.linkedin.com/in/ipnu/",
+  gmail: "ipndef@gmail.com",
+  gitlab: "https://gitlab.com/ipndef",
+  facebook: "https://www.facebook.com/ipndef",
+  medium: "https://medium.com/@ipndef",
+  stackoverflow: "#",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -174,14 +174,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Warehouse Staff",
+      company: "PT. Andiarta Muzizat",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "Des 2021 - Sep 2022",
+      desc: "PT. Andiarta Muzizat .Ninja Xpress adalah perusahaan jasa pengiriman kurir ekspres berbasis teknologi yang menyediakan layanan pengiriman di Asia Tenggara yang pertama kali diluncurkan pada tahun 2014.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "‍Bertanggung Jawab Atas Bongkar Muat Barang",
+        "Menandatangani Surat Penerimaan Barang",
+        "Melakukan Pengecekan Barang di Gudang",
+        "Menyiapkan Pengiriman dan Penyimpanan Barang",
+        "Membuat Laporan Secara Berkala",
+        "Berkoordinasi dengan Divisi Lain atau Klien"
       ]
     },
     {
