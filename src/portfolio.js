@@ -51,13 +51,9 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
+    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -348,7 +344,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
@@ -362,7 +358,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "SotoMie___", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
