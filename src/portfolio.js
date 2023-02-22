@@ -178,14 +178,14 @@ const workExperiences = {
       company: "PT. Andiarta Muzizat",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "Des 2021 - Sep 2022",
-      desc: "PT. Andiarta Muzizat .Ninja Xpress adalah perusahaan jasa pengiriman kurir ekspres berbasis teknologi yang menyediakan layanan pengiriman di Asia Tenggara yang pertama kali diluncurkan pada tahun 2014.",
+      desc: "PT. Andiarta Muzizat (Ninja Xpress) adalah perusahaan jasa pengiriman kurir ekspres berbasis teknologi yang menyediakan layanan pengiriman di Asia Tenggara yang pertama kali diluncurkan pada tahun 2014.",
       descBullets: [
-        "‍Bertanggung Jawab Atas Bongkar Muat Barang",
-        "Menandatangani Surat Penerimaan Barang",
-        "Melakukan Pengecekan Barang di Gudang",
-        "Menyiapkan Pengiriman dan Penyimpanan Barang",
-        "Membuat Laporan Secara Berkala",
-        "Berkoordinasi dengan Divisi Lain atau Klien"
+        "‍Bertanggung jawab atas bongkar muat barang",
+        "Menandatangani surat penerimaan barang",
+        "Melakukan pengecekan barang di gudang",
+        "Menyiapkan pengiriman dan penyimpanan barang",
+        "Membuat laporan secara berkala",
+        "Berkoordinasi dengan Divisi lain atau Klien"
       ]
     },
     {
